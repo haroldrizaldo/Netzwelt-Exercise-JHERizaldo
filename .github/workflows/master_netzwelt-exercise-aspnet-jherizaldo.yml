@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Netzwelt-Exercise-ASPNET-jherizaldo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A86AF6EC5D9D44488F0A686E1E7A296D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A7421424AA544728D43808B6024995F }}
           package: .
